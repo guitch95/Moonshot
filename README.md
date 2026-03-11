@@ -2,7 +2,9 @@
 
 Application iOS éducative sur le programme spatial Apollo, développée avec **SwiftUI**.
 
-`Swift` `iOS` `SwiftUI` `JSON`
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS%2016+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
 
 ## 📱 Aperçu
 
